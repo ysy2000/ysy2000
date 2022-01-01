@@ -10,9 +10,7 @@ Go to my
 </a>
 
 ![ysy2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysy2000&show_icons=true&theme=vue)
-![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&section=footer&color=0:191970,100:108080&text=Hi%20this%20is%20YSY&height=400&desc=Assistent%20Researcher%20in%20INHA.univ&animation=fadeIn&fontColor=FFFFFF)
-
-![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&section=footer&color=0:b7ceec,100:108080&text=Hi%20this%20is%20YSY&height=400&desc=Assistent%20Researcher%20in%20INHA.univ&animation=fadeIn&fontColor=342d1e)
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&section=footer&color=0:191970,100:108080&text=Hi%20this%20is%20YSY&height=400&desc=Assistent%20Researcher%20in%20INHA.univ&animation=fadeIn&fontColor=f8Fff8)
 
 <!--
 **ysy2000/ysy2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
