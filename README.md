@@ -1,7 +1,7 @@
 
 
 
-### Hi there 👋
+### Go to my ⬇️
 
 <a href="https://ysy2000.tistory.com/">
     <img 
