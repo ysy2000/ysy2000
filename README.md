@@ -1,6 +1,6 @@
 
 ![ysy2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysy2000&show_icons=true&theme=vue)
-![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&section=footer&color=0:191970,100:108080&text=Hi%20this%20is%20YSY&height=400&desc=Assistent%20Researcher%20in%20INHA.univ&animation=fadeIn&fontColor=feFffe)
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&section=footer&color=0:191970,100:108080&text=Hi👋🏻this%20is%20YSY&height=400&desc=Assistent%20Researcher%20in%20INHA%20Univ.🐲&animation=fadeIn&fontColor=feFffe)
 
 
 💌Contect me to ysy@dsp.inha.ac.kr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And Go to my 
