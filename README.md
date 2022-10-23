@@ -20,7 +20,8 @@
  - 2021 한국어 아동 인공지능 데이터 해커톤 대회 최우수상(2등)[link](http://www.lecturernews.com/news/articleView.html?idxno=86979)
  - 2021 AWS DeepRacer 챔피언십리그 최우수상
  
- 
+# 💻Project
+ - 
 
 # 💌Contact 
  - email: ysy@dsp.inha.ac.kr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
