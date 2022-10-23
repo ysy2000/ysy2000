@@ -27,7 +27,7 @@
 |2022.03 ~ 2022.04|국내 특허|개인화된 리뷰를 제공하는 방법 및 시스템|추천시스템|
 |2022.04 ~ 2022.06|대한전자공학회 2022 하계 종합학술대회| - 휴지(pause)제거 미세조정을 사용한 노인 음성인식 성능 비교</br> - 위상 보코더를 활용한 데이터 증강 및 노인 음성인식 성능 비교|ASR|
 |2022.04 ~ 2022.06|국내 특허|실시간 대화 표시 방법 및 시스템|아이디어|
-|2022.09.17|INTERSPEECH2022 - YFRSW|Study to Investigate Low-resource ASR|[homepage](https://sites.google.com/view/yfrsw-2022/)|
+|2022.09.17|INTERSPEECH2022 - YFRSW [homepage](https://sites.google.com/view/yfrsw-2022/)|Study to Investigate Low-resource ASR|ASR|
 |2022.06 ~ 2022.10|HCII|SpeechBalloon: A new approach of providing user interface for real-time generation of meeting notes|Communication(심사중)|
 
 # 💌Contact 
