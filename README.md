@@ -22,7 +22,7 @@
  
  
 
-# 💌Contect 
+# 💌Contact 
  - email: ysy@dsp.inha.ac.kr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  - Blog: <a href="https://ysy2000.tistory.com/">
     <img 
