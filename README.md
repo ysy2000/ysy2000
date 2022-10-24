@@ -39,11 +39,12 @@
 </a>
 
 Do not hesitate to reach out with any specific questions or suggestions!😄
-
+<!--
  
 # ✨My Goals
 ### long term goals
 ### short term goals
+-->
 <!--
 - 🔭 I’m currently working on ...🎓
 - 🌱 I’m currently learning ...
