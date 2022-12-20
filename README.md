@@ -29,6 +29,7 @@
 |2022.04 ~ 2022.06|국내 특허|실시간 대화 표시 방법 및 시스템|아이디어|
 |2022.09.17|INTERSPEECH2022 - YFRSW [homepage](https://sites.google.com/view/yfrsw-2022/)|Study to Investigate Low-resource ASR|ASR|
 |2022.06 ~ 2022.10|HCII|SpeechBalloon: A new approach of providing user interface for real-time generation of meeting notes|Communication(심사중)|
+|2022.10 ~ 2022.11|국내 특허|가상현실에서 청각 신호로 감정인식 결과를 표현하는 방법|아이디어|
 
 # 💌Contact 
  - email: ysy@dsp.inha.ac.kr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
