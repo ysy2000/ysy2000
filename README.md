@@ -8,7 +8,7 @@
 |------|--|---|---|
 |🐲Inha univ|Department of Electrical and Computer Engineering|2022.03 ~ quit|low-resource ASR|
 |🐲Inha univ|Department of Electrical and Computer Engineering|2019.03 ~ 2022.02|early graduator, drumer, GPA 4.1/4.5|
-|🌀Hyunpung high school|2016.03 ~ 2019.02|환경과학동아리 차장, 홍보모델|
+|🌀Hyunpung High School |2016.03 ~ 2019.02|Leader of science club, Model of school|
 |👶Birth in Deagu||2000.05.06||
 
 
