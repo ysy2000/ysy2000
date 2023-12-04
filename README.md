@@ -21,7 +21,7 @@
  - 2021 AWS DeepRacer 챔피언십리그 최우수상
  
 # 💻Projects
-|기간|분류|제목|관련 분야|
+|Duration|Agency|Title|Subject|
 |--|------|---|---|
 |2022.11 ~ 2023.01|IEIE 대한전자공학회|음성 기반 감정인식을 위한 음성 특징의 다중 해상도 조합 비교|ASR,Emotion Recognition|
 |2022.10 ~ 2022.11|DgiCon|omparison of Speech-To-Text APIs for Korean People With Autism|low-resource ASR|
@@ -31,7 +31,7 @@
 |2022.04 ~ 2022.06|Korea Patent|실시간 대화 표시 방법 및 시스템|idea|
 |2022.04 ~ 2022.06|IEIE 대한전자공학회| - 휴지(pause)제거 미세조정을 사용한 노인 음성인식 성능 비교</br> - 위상 보코더를 활용한 데이터 증강 및 노인 음성인식 성능 비교|low-resource ASR|
 |2022.03 ~ 2022.04|Korea Patent|개인화된 리뷰를 제공하는 방법 및 시스템|recommender systems|
-|2020.07 ~ 2021.02|산학과제|차세대 디스플레이|display|
+|2020.07 ~ 2021.02|LG산학과제|차세대 디스플레이|strechable display|
 
 
 # Skills
