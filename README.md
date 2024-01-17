@@ -23,6 +23,7 @@
 # 💻Projects
 |Duration|Agency|Title|Subject|
 |--|------|---|---|
+|2023.01 ~ 2023.08|Korea Patent|시계열 형태의 선호도 정보를 바탕으로 고객에게 상품을 추천하는 시스템과 방법|recommender systems|
 |2022.11 ~ 2023.01|IEIE 대한전자공학회|음성 기반 감정인식을 위한 음성 특징의 다중 해상도 조합 비교|ASR,Emotion Recognition|
 |2022.11 ~ 2023.01|The Institute of Electronics and Information Engineers|Multi-resolution Audio Feature Analysis for Speech Emotion Recognition|ASR,Emotion Recognition|
 |2022.10 ~ 2022.11|DgiCon|omparison of Speech-To-Text APIs for Korean People With Autism|low-resource ASR|
